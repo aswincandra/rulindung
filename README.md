@@ -5,6 +5,7 @@ Rulindung is a Deep-learning based online reporting system to classify Indonesia
 * Fine-tuned with the compilation of Indonesian cyberbullying/hate-speech public datasets. The datasets obtained from several social media, comprise of Twitter & Instagram.
 * Implemented to Flask’s web app environment.
 * Used Tesseract OCR engine to detect text from image.
+* Demo: [click here](https://youtu.be/rtKO-CD9IOk)
 
 * **Soon:** research journal & make it as open-source project.
 
